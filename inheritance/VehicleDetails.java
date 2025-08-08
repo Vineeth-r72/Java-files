@@ -117,7 +117,6 @@ class Motorcycle extends Vehicle {
         sc.nextLine(); 
         Car car = new Car(carBrand, carModel, carYear, carBasePrice, numberOfDoors);
 
-        
         System.out.println("Enter Motorcycle Details");
         System.out.print("Enter Brand: ");
         String bikeBrand = sc.nextLine();
@@ -140,3 +139,4 @@ class Motorcycle extends Vehicle {
 
 }
 //sksk
+
