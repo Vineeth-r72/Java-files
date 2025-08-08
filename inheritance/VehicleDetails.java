@@ -137,4 +137,6 @@ class Motorcycle extends Vehicle {
         motorcycle.totalDetails();
 
             }
+
 }
+//sksk
